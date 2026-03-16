@@ -1,0 +1,60 @@
+header{
+    background-color: rgb(35, 247, 7);
+color: rgb(0, 0, 0);
+}
+main{
+background-color: rgb(65, 138, 6);
+color: black;
+}
+footer{
+background-color: rgba(80, 153, 8, 0.644);
+color: black;
+}
+html{
+    background-color: black;
+}
+
+h1{ 
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+}
+
+p{
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
+
+
+nav{
+    background-color: rgb(16, 83, 7);
+    border-style: solid;
+    border-color: black;
+    border: 0;
+    padding: 0;
+ margin: 10px; 
+}
+
+nav ul{
+     list-style:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+}
+nav ul li{
+    float:left;
+}
+
+nav ul li a{
+    display:block;
+    color: antiquewhite;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration:none;
+}
+
+nav ul li a:hover{
+    background-color:rgb(36, 156, 25);
+}
